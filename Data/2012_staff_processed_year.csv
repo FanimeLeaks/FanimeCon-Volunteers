@@ -1,0 +1,952 @@
+Badge ID,BirthYear,BirthMonth,BirthDay,Age,City,State,Zip,Country,Division,Department,Year
+S0089,1969,5,24,42,San Jose,CA,95130,US,Executive Staff,Executive Staff,2012
+S0386,1978,8,15,33,Hayward,CA,94545,US,Executive Staff,Executive Staff,2012
+S0059,1975,2,14,37,Santa Clara,CA,95051,US,Executive Staff,Executive Staff,2012
+S0066,1985,8,30,26,Foster City,CA,94404,US,Fan Services,Fan Services,2012
+S0685,1983,8,21,28,Cupertino,CA,95014,US,Fan Services,Fan Services,2012
+S2033,1976,6,18,35,Davis,CA,95618,US,Fan Services,Artist Alley,2012
+S2034,1968,8,12,43,Davis,CA,95618-2511,US,Fan Services,Artist Alley,2012
+S0011,1974,3,9,38,Cupertino,CA,95104,US,Fan Services,Artist Alley,2012
+S0774,1987,2,21,25,san francisco,CA,94115,US,Fan Services,Artist Alley,2012
+S5084,1988,2,22,24,san francisco,CA,94129,US,Fan Services,Artist Alley,2012
+S1805,1972,8,26,39,San Jose,CA,95127,US,Fan Services,Artist Alley,2012
+S3900,1960,11,4,51,San Jose,CA,95120,US,Fan Services,Artist Alley,2012
+S3115,1981,6,30,30,San Jose,CA,95120,US,Fan Services,Artist Alley,2012
+S4526,0,0,0,19,Davis,CA,95616,US,Fan Services,Artist Alley,2012
+S3664,1992,5,1,20,San Jose,CA,95132,US,Fan Services,Artist Alley,2012
+S0371,1951,12,12,60,Santa Clara,CA,95054,US,Fan Services,Art Gallery,2012
+S0380,1978,6,10,33,san francisco,CA,94121,US,Fan Services,Dealers Room,2012
+S3591,1977,12,28,34,Sacramento,CA,95831,US,Fan Services,Charity Auction,2012
+S3479,1979,4,19,33,Sacramento,CA,95822,US,Fan Services,Charity Auction,2012
+S4121,1996,8,2,15,Sacramento,CA,95822,US,Fan Services,Charity Auction,2012
+S0505,1978,3,12,34,san jose,CA,95128,US,Fan Services,Charity Auction,2012
+S0009,1972,8,2,39,Sacramento,CA,95820,US,Fan Services,Charity Auction,2012
+S0599,1975,3,27,37,Campbell,CA,95008,US,Fan Services,Dealers Room,2012
+S0280,1976,10,21,35,San Jose,CA,95136,US,Fan Services,Dealers Room,2012
+S0221,1986,4,15,26,Tracy,CA,95376,US,Fan Services,Dealers Room,2012
+S3015,1978,2,1,34,Campbell,CA,95008,US,Fan Services,Dealers Room,2012
+S0771,1978,10,21,33,san jose,CA,95117,US,Fan Services,Dealers Room,2012
+S3165,1969,3,20,43,Santa Rosa,CA,95407,US,Fan Services,Dealers Room,2012
+S1029,1986,10,17,25,Sunnyvale,CA,94087,US,Fan Services,Dealers Room,2012
+S1815,1989,3,25,23,Union City,CA,94587,US,Fan Services,Dealers Room,2012
+S0334,1985,3,13,27,Roseville,CA,95678,US,Fan Services,Dealers Room,2012
+S0220,1984,7,19,27,Tracy,CA,95376,US,Fan Services,Dealers Room,2012
+S0307,1982,8,24,29,Los Altos,CA,94024,US,Fan Services,Dealers Room,2012
+S0381,1979,12,28,32,Sunnyvale,CA,94086,US,Anime Resource Group,Information Technology,2012
+S0270,1977,1,21,35,Sacramento,CA,95831,US,Fan Services,Registration,2012
+S0494,1983,11,21,28,Sacramento,CA,95831,US,Fan Services,Registration,2012
+S1389,1991,11,16,20,Daly City,CA,94015,US,Fan Services,Registration,2012
+S0706,1991,8,15,20,Saratoga,CA,95070,US,Fan Services,Registration,2012
+S0065,0,0,0,27,Milpitas,CA,95035,US,Fan Services,Registration,2012
+S3068,1993,8,5,18,Daly City,CA,94015,US,Fan Services,Registration,2012
+S1387,1991,9,26,20,South San Francisco,CA,94080,US,Fan Services,Registration,2012
+S4756,0,0,0,20,South San Francisco,CA,94080,US,Fan Services,Registration,2012
+S4885,1993,3,7,19,San Francisco,CA,94122,US,Fan Services,Registration,2012
+S3222,1992,2,20,20,Millbrae,CA,94030,US,Fan Services,Registration,2012
+S0719,1990,8,25,21,South San Francisco,CA,94080,US,Fan Services,Registration,2012
+S0783,1978,11,7,33,Daly City,CA,94015,US,Fan Services,Registration,2012
+S5002,0,0,0,20,Sacramento,CA,95822,US,Fan Services,Registration,2012
+S3911,1991,6,29,20,Milpitas,CA,95035,US,Fan Services,Registration,2012
+S4750,1983,2,19,29,San Mateo,CA,94402,US,Fan Services,Registration,2012
+S3772,1986,12,16,25,sacramento,CA,95818,US,Fan Services,Registration,2012
+S0258,1989,3,27,23,Palo Alto,CA,94303,US,Fan Services,Registration,2012
+S2737,1989,3,27,23,Palo Alto,CA,94303,US,Fan Services,Registration,2012
+S5149,1993,10,3,18,San Francisco,CA,94112,US,Fan Services,Registration,2012
+S5093,1985,11,18,26,SACRAMENTO,CA,95823,US,Fan Services,Registration,2012
+S3784,1993,7,24,18,Mountain View,CA,94043,US,Fan Services,Registration,2012
+S3782,0,0,0,24,Fremont,CA,94538,US,Fan Services,Registration,2012
+S3970,1991,1,29,21,Merced,CA,95340,US,Fan Services,Registration,2012
+S5038,1992,3,3,20,San Jose,CA,95121,US,Fan Services,Registration,2012
+S1781,1994,6,3,17,Antioch,CA,94509,US,Fan Services,Registration,2012
+S5181,0,0,0,22,South San Francisco,CA,94080,US,Fan Services,Registration,2012
+S2990,1991,10,30,20,south san francisco,CA,94080,US,Fan Services,Registration,2012
+S5094,1990,7,19,21,Richmond,CA,94805,US,Fan Services,Registration,2012
+S5180,0,0,0,18,San Francisco,CA,94124,US,Fan Services,Registration,2012
+S4751,0,0,0,44,Richmond,CA,94803,US,Clockwork Alchemy,CA Registration,2012
+S0739,1989,5,23,22,Pacifica,CA,94044,US,Fan Services,Registration,2012
+S4354,0,0,0,14,Pacifica,CA,94044,US,Fan Services,Registration,2012
+S4667,0,0,0,21,San Jose,CA,95127,US,Fan Services,Registration,2012
+S1493,1992,9,3,19,Pittsburgh,PA,15224,US,Fan Services,Registration,2012
+S4053,1992,5,29,19,South San Francisco,CA,94080,US,Fan Services,Registration,2012
+S4727,2011,11,20,0,Fremont,CA,94536,US,Fan Services,Registration,2012
+S4753,0,0,0,52,Richmond,CA,94803,US,Clockwork Alchemy,CA Registration,2012
+S2627,1991,11,11,20,san jose,CA,95148,US,Fan Services,Registration,2012
+S1890,1987,1,14,25,South San Francisco,CA,94080,US,Fan Services,Registration,2012
+S2397,1991,8,16,20,San Jose,CA,95111,US,Fan Services,Registration,2012
+S5099,1986,10,4,25,Elk Grove,CA,95757,US,Fan Services,Registration,2012
+S4067,1993,5,15,19,Elk Grove,CA,95758,US,Fan Services,Registration,2012
+S4068,1993,8,29,18,Citrus Heights,CA,95610,US,Fan Services,Registration,2012
+S1892,1991,10,24,20,South San Francisco,CA,94080,US,Fan Services,Registration,2012
+S5001,1992,1,25,20,Sacramento,CA,95831,US,Fan Services,Registration,2012
+S5182,0,0,0,21,oakland,CA,94601,US,Fan Services,Registration,2012
+S3905,1990,3,18,22,Davis,CA,95616,US,Fan Services,Registration,2012
+S3879,1992,4,27,20,Alamo,CA,94507,US,Fan Services,Registration,2012
+S4690,1993,10,29,18,San Jose,CA,95116,US,Fan Services,Registration,2012
+S0275,1980,2,22,32,Fremont,CA,94536,US,Fan Services,Registration,2012
+S4754,1991,5,2,21,South San Francisco,CA,94080,US,Fan Services,Registration,2012
+S1397,1992,1,2,20,Sacramento,CA,95831,US,Fan Services,Registration,2012
+S3074,1992,10,10,19,San Jose,CA,95148,US,Fan Services,Registration,2012
+S4050,0,0,0,17,San Jose,CA,95122,US,Fan Services,Registration,2012
+S2836,1987,11,23,24,Fremont,CA,94539,US,Fan Services,Registration,2012
+S3241,1991,5,15,21,San Jose,CA,95122,US,Fan Services,Registration,2012
+S0646,1989,8,18,22,San Jose,CA,95138-1528,US,Fan Services,Registration,2012
+S1597,1992,2,12,20,Daly City,CA,94014,US,Fan Services,Registration,2012
+S4579,0,0,0,19,San Jose,CA,95127,US,Fan Services,Registration,2012
+S4042,0,0,0,23,Sunnyvale,CA,94085,US,Fan Services,Registration,2012
+S4894,0,0,0,18,Daly City,CA,94015,US,Fan Services,Registration,2012
+S3990,1988,7,19,23,Sunnyvale,CA,94085,US,Fan Services,Registration,2012
+S1629,1991,11,23,20,San Jose,CA,95132,US,Fan Services,Registration,2012
+S5138,1992,10,18,19,Davis,CA,95618,US,Fan Services,Registration,2012
+S0162,1985,12,18,26,San Jose,CA,95132,US,Fan Services,Registration,2012
+S1313,1978,1,12,34,Woodland,CA,95695,US,Fan Services,Registration,2012
+S1596,1991,12,11,20,San Francisco,CA,94112,US,Fan Services,Registration,2012
+S5016,1993,7,3,18,Daly City,CA,94015,US,Fan Services,Registration,2012
+S4069,1992,4,21,20,San Francisco,CA,94133,US,Fan Services,Registration,2012
+S3903,1991,7,21,20,Davis,CA,95618,US,Fan Services,Registration,2012
+S4328,1992,4,22,20,Sacramento,CA,95831,US,Fan Services,Registration,2012
+S3629,1988,3,25,24,union city,CA,94587,US,Fan Services,Registration,2012
+S2257,1988,9,27,23,Ontario,CA,91764,US,Fan Services,Registration,2012
+S1311,1991,1,4,21,Sunnyvale,CA,94086,US,Fan Services,Registration,2012
+S4895,1992,2,29,20,San Jose,CA,95112,US,Fan Services,Registration,2012
+S0779,1989,3,26,23,Milpitas,CA,95035,US,Fan Services,Registration,2012
+S3628,0,0,0,24,fremont,CA,94539,US,Fan Services,Registration,2012
+S2261,1990,10,12,21,San Jose,CA,95123,US,Fan Services,Registration,2012
+S0871,1991,12,6,20,Monte Sereno,CA,95030,US,Fan Services,Registration,2012
+S0872,1973,12,20,38,Livermore,CA,94550,US,Extravaganzas,Cosplay,2012
+S0563,1973,8,22,38,Livermore,CA,94550,US,Extravaganzas,Cosplay,2012
+S3741,1972,8,30,39,Oakland,CA,94606,US,Fan Services,Swap Meet,2012
+S2159,1967,8,21,44,Oakland,CA,94607,US,Fan Services,Swap Meet,2012
+S1348,1986,7,20,25,San Jose,CA,95130,US,Fan Services,Swap Meet,2012
+S2965,0,0,0,21,san jose,CA,95128,US,Fan Services,Swap Meet,2012
+S3243,1986,6,28,25,Campbell,CA,95008,US,Fan Services,Swap Meet,2012
+S5003,1971,11,4,40,Los Angeles,CA,90031,US,Fan Services,Swap Meet,2012
+S0023,1985,1,14,27,Hayward,CA,94544,US,Communications,Marketing,2012
+S0357,1972,12,7,39,San Jose,CA,95138,US,Communications,Communications,2012
+S0618,1970,2,27,42,San Jose,CA,95138,US,Communications,Communications,2012
+S0024,1986,8,22,25,Berkeley,CA,94709,US,Communications,Marketing,2012
+S1895,1982,6,30,29,Irvine,CA,92602,US,Communications,Communications,2012
+S0165,1983,6,26,28,Sacramento,CA,95825,US,Communications,Communications,2012
+S0172,1975,7,12,36,Alameda,CA,94501,US,Communications,Artist Pool,2012
+S2671,1983,9,18,28,Tacoma,WA,98443,US,Communications,Artist Pool,2012
+S4583,1988,6,8,23,San Diego,CA,92111,US,Communications,Artist Pool,2012
+S1149,1985,8,19,26,Thornton,CO,80260,US,Communications,Artist Pool,2012
+S5081,0,0,0,0,Las Vegas,NV,89123,US,Communications,Artist Pool,2012
+S2675,1988,9,1,23,San Francisco,CA,94132,US,Communications,Artist Pool,2012
+S1150,1983,4,12,29,Turlock,CA,95382,US,Communications,Artist Pool,2012
+S4584,1988,3,14,24,Cupertino,CA,95014,US,Communications,Artist Pool,2012
+S0202,1986,6,20,25,San Jose,CA,95148,US,Communications,Artist Pool,2012
+S0809,1982,12,16,29,pacifica,CA,94044,US,Communications,Design,2012
+S4863,1981,1,14,31,San Francisco,CA,94110,US,Communications,Design,2012
+S5154,1986,4,18,26,Pleasant Hill,CA,94523,US,Communications,Design,2012
+S5107,1988,4,12,24,Alameda,CA,94501,US,Communications,Design,2012
+S2572,1987,5,21,25,San Jose,CA,95132,US,Communications,Promotions,2012
+S0251,1981,10,17,30,Cerritos,CA,90703,US,Communications,Awesome,2012
+S2252,1989,2,9,23,North Highlands,CA,95660,US,Communications,Photography,2012
+S0594,1982,9,5,29,San Leandro,CA,94579,US,Communications,Photography,2012
+S3819,1989,4,7,23,antelope,CA,95843,US,Communications,Photography,2012
+S4163,0,0,0,20,sacramento,CA,95838,US,Communications,Photography,2012
+S4686,1987,9,20,24,North Highlands,CA,95660,US,Communications,Photography,2012
+S0036,1987,5,20,25,San Jose,CA,95122,US,Communications,Photography,2012
+S2348,1982,10,9,29,San Pablo,CA,94806,US,Communications,Photography,2012
+S0544,1986,9,18,25,San Jose,CA,95148,US,Communications,Professional Registration,2012
+S0141,1990,9,1,21,San Jose,CA,95111,US,Communications,Professional Registration,2012
+S2273,1954,6,13,57,Concord,CA,94519,US,Communications,Professional Registration,2012
+S3780,1976,5,26,35,San Mateo,CA,94403,US,Guest Relations,MusicFest,2012
+S0040,1990,9,2,21,san jose,CA,95121,US,Communications,Professional Registration,2012
+S1314,1969,1,5,43,Atascadero,CA,93422,US,Communications,Professional Registration,2012
+S4078,1985,7,31,26,San Mateo,CA,94401,US,Communications,Promotions,2012
+S2148,1979,9,26,32,san jose,CA,95112,US,Communications,Promotions,2012
+S5283,1989,2,16,23,San Jose,CA,95131,US,Communications,Promotions,2012
+S3492,1989,4,21,23,San Luis Obispo,CA,93405,US,Communications,Web Team,2012
+S3489,1989,7,18,22,San Luis Obispo,CA,93405,US,Communications,Web Team,2012
+S4285,1985,3,9,27,San Ramon,CA,94582,US,Communications,Web Team,2012
+S5091,0,0,0,29,San Pedro,CA,90731,US,Communications,Public Relations,2012
+S3562,0,0,0,23,San Luis Obispo,CA,93401,US,Communications,Publications,2012
+S1576,1990,4,8,22,Danville,CA,94506,US,Communications,Publications,2012
+S4530,0,0,0,22,Hayward,CA,94542,US,Communications,Publications,2012
+S3140,1990,7,16,21,San Jose,CA,95132,US,Communications,Publications,2012
+S2565,1987,1,27,25,Atascadero,CA,93422,US,Communications,Content,2012
+S1083,1979,9,23,32,Campbell,CA,95008,US,Communications,Content,2012
+S5152,1989,2,11,23,Stockton,CA,95210,US,Communications,Content,2012
+S1823,1988,10,31,23,Nipomo,CA,93444,US,Communications,Content,2012
+S4873,0,0,0,20,Newark,CA,94560,US,Communications,Content,2012
+S4631,1987,8,5,24,Los Angeles,CA,90046,US,Communications,Content,2012
+S4546,0,0,0,56,Sunnyvale,CA,94087,US,Communications,Content,2012
+S4757,0,0,0,23,Palo Alto,CA,94303,US,Communications,Content,2012
+S1925,1989,11,12,22,San Jose,CA,95148,US,Communications,Print,2012
+S4379,1992,9,29,19,Richmond,CA,94805,US,Communications,Print,2012
+S1064,1966,8,1,45,Sunnyvale,CA,94086,US,Communications,Print,2012
+S5057,1992,11,2,19,Tulare,CA,93274,US,Communications,Print,2012
+S4680,1991,5,26,20,Merced,CA,95340,US,Communications,Print,2012
+S4531,1988,2,23,24,South Gate,CA,90280,US,Communications,Print,2012
+S5054,0,0,0,28,manteca,CA,95336,US,Communications,Print,2012
+S5199,0,0,0,23,Union City,CA,94587,US,Communications,Print,2012
+S4806,0,0,0,20,Fremont,CA,94539,US,Communications,Print,2012
+S5103,0,0,0,24,San Jose,CA,95131,US,Communications,Print,2012
+S5055,1993,4,25,19,Merced,CA,95343,US,Communications,Print,2012
+S5078,1992,3,19,20,Concord,CA,94521,US,Communications,Print,2012
+S1238,1983,8,3,28,pleasanton,CA,94588,US,Programming,Programming,2012
+S4253,0,0,0,31,San Jose,CA,95129,US,Programming,Programming,2012
+S3347,1981,10,26,30,Redwood City,CA,94061,US,Programming,Programming,2012
+S0710,1975,8,13,36,Santa Clara,CA,95051,US,Programming,Programming,2012
+S0247,1985,4,18,27,Fremont,CA,94555,US,Programming,Programming,2012
+S1270,1986,8,22,25,Campbell,CA,95008,US,Programming,Programming,2012
+S1931,1967,9,25,44,Sacramento,CA,95831,US,Programming,Cosplay Gatherings,2012
+S2456,1987,4,22,25,Sacramento,CA,95831,US,Programming,Cosplay Gatherings,2012
+S3596,1992,7,28,19,Santa Rosa,CA,95401,US,Programming,Cosplay Gatherings,2012
+S3597,1987,11,13,24,Stockton,CA,95204,US,Programming,Cosplay Gatherings,2012
+S4849,0,0,0,23,Sacramento,CA,95841,US,Programming,Cosplay Gatherings,2012
+S4813,1986,2,28,26,dixon,CA,95620,US,Programming,Cosplay Gatherings,2012
+S4743,1949,11,27,62,Half Moon Bay,CA,94019,US,Programming,Cosplay Gatherings,2012
+S4747,1993,7,7,18,Rohnert Park,CA,94928,US,Programming,Cosplay Gatherings,2012
+S2457,1981,7,8,30,San Jose,CA,95126,US,Programming,Cosplay Gatherings,2012
+S4851,1989,1,30,23,Montara,CA,94037,US,Programming,Cosplay Gatherings,2012
+S3060,1981,3,17,31,Truckee,CA,96161,US,Programming,Cosplay Gatherings,2012
+S2228,1985,9,5,26,San Jose,CA,95138,US,Programming,Cosplay Gatherings,2012
+S4744,1992,5,22,19,Sebastopol,CA,95472,US,Programming,Cosplay Gatherings,2012
+S4814,1990,5,30,21,Elk Grove,CA,95758,US,Programming,Cosplay Gatherings,2012
+S4480,0,0,0,25,Sunnyvale,CA,94086,US,Programming,Cosplay Gatherings,2012
+S2458,1982,1,20,30,North Hills,CA,91343,US,Programming,Cosplay Hangout,2012
+S1928,1968,3,24,44,Wheatland,CA,95692,US,Programming,Cosplay Hangout,2012
+S3638,1986,1,29,26,fort myers,FL,33905,US,Programming,Cosplay Hangout,2012
+S4687,0,0,0,28,los angeles,CA,90013,US,Programming,Cosplay Hangout,2012
+S5008,0,0,0,0,King City,CA,93930,US,Programming,Cosplay Hangout,2012
+S4688,0,0,0,30,Canoga Park,CA,91303,US,Programming,Cosplay Hangout,2012
+S2570,1989,6,18,22,Sacramento,CA,95815,US,Programming,Cosplay Hangout,2012
+S4689,1991,3,17,21,Agoura Hills,CA,91301,US,Programming,Cosplay Hangout,2012
+S4492,1981,1,20,31,Yuba City,CA,95993,US,Programming,Cosplay Hangout,2012
+S4493,0,0,0,25,Yuba city,CA,95993,US,Programming,Cosplay Hangout,2012
+S2434,1973,7,29,38,Fremont,CA,94555,US,Programming,Dance,2012
+S1346,1976,10,30,35,San Jose,CA,95130,US,Programming,Dance,2012
+S3996,1986,9,30,25,SANTA CLARA,CA,95050,US,Programming,Dance,2012
+S1237,1978,4,10,34,San Pablo,CA,94806,US,Programming,Dance,2012
+S4532,1989,11,10,22,San Jose,CA,95127,US,Programming,Dance,2012
+S4412,1990,3,14,22,Sunnyvale,CA,94087,US,Programming,Dance,2012
+S3769,0,0,0,37,Oakland,CA,94605,US,Programming,Dance,2012
+S2328,1990,4,2,22,Fremont,CA,94555,US,Programming,Dance,2012
+S3770,1972,8,1,39,Newark,CA,94560,US,Programming,Dance,2012
+S4375,1992,3,28,20,San Jose,CA,95129,US,Programming,Dance,2012
+S4705,0,0,0,0,San Francisco,CA,94134,US,Programming,Dance,2012
+S5184,1983,7,11,28,Villa Park,CA,92861,US,Programming,Dance,2012
+S2395,1981,1,17,31,San Francisco,CA,94118,US,Programming,Dance,2012
+S0163,1982,6,20,29,Woodland,CA,95695,US,Programming,Games,2012
+S0684,1985,7,7,26,Reno,NV,89509,US,Programming,Arcade,2012
+S3751,1990,5,1,22,Clayton,CA,94517,US,Programming,Arcade,2012
+S3190,1986,8,10,25,Campbell,CA,95008-0303,US,Programming,Arcade,2012
+S4683,1991,2,25,21,SUNNYVALE,CA,94087-5539,US,Programming,Arcade,2012
+S4665,0,0,0,23,Rancho Cordova,CA,95670,US,Programming,Arcade,2012
+S4682,0,0,0,17,Sunnyvale,CA,94087,US,Programming,Arcade,2012
+S4651,0,0,0,29,Santa Clara,CA,95051,US,Programming,Arcade,2012
+S4718,1988,8,1,23,Orange,CA,92865,US,Programming,Arcade,2012
+S3133,1990,10,4,21,Sacramento,CA,95833,US,Programming,Arcade,2012
+S4024,1994,7,20,17,San Jose,CA,95123,US,Programming,Arcade,2012
+S4650,1988,5,13,24,Fairfield,OH,45014,US,Programming,Arcade,2012
+S3047,1992,2,9,20,Sunnyvale,CA,94086,US,Programming,Arcade,2012
+S1850,1983,4,16,29,Sacramento,CA,95835,US,Programming,E-Gaming,2012
+S1966,1986,2,6,26,Sacramento,CA,95825,US,Programming,E-Gaming,2012
+S0182,1986,9,26,25,Hayward,CA,94545,US,Programming,E-Gaming,2012
+S1209,1987,11,6,24,Milford,DE,19963,US,Programming,E-Gaming,2012
+S3185,1991,6,5,20,Pinole,CA,94564,US,Programming,E-Gaming,2012
+S3811,1989,6,1,22,San Jose,CA,95121,US,Programming,E-Gaming,2012
+S5048,0,0,0,22,San Jose,CA,95148,US,Programming,E-Gaming,2012
+S4883,0,0,0,28,San Francisco,CA,94112,US,Programming,E-Gaming,2012
+S1926,1990,7,18,21,Milpitas,CA,95035,US,Programming,E-Gaming,2012
+S4896,1990,6,19,21,Sacramento,CA,95826,US,Programming,E-Gaming,2012
+S1948,1988,8,5,23,Sacramento,CA,95828,US,Programming,E-Gaming,2012
+S3933,1988,6,12,23,Reno,NV,89502,US,Programming,E-Gaming,2012
+S4899,1990,9,21,21,Sacramento,CA,95823,US,Programming,E-Gaming,2012
+S5046,1993,6,13,18,Pinole,CA,94564,US,Programming,E-Gaming,2012
+S4812,1992,8,9,19,Sacramento,CA,95834,US,Programming,E-Gaming,2012
+S4055,1992,5,15,20,San Jose,CA,95117,US,Programming,E-Gaming,2012
+S4891,1987,10,23,24,Castro Valley,CA,94546,US,Programming,E-Gaming,2012
+S0015,1984,1,19,28,Sacramento,CA,95820,US,Programming,E-Gaming,2012
+S3516,1987,8,22,24,Sacramento,CA,95825,US,Programming,E-Gaming,2012
+S5045,1989,2,6,23,Vallejo,CA,94589,US,Programming,E-Gaming,2012
+S5139,1993,5,5,19,San Diego,CA,92131,US,Programming,E-Gaming,2012
+S1969,1984,12,3,27,Sacramento,CA,95831,US,Programming,E-Gaming,2012
+S4809,1990,4,24,22,South San Francisco,CA,94080,US,Programming,E-Gaming,2012
+S1859,1987,3,13,25,Sacramento,CA,95831,US,Programming,E-Gaming,2012
+S4897,1986,9,19,25,Sacramento,CA,95825,US,Programming,E-Gaming,2012
+S4811,1994,3,12,18,Sacramento,CA,95835,US,Programming,E-Gaming,2012
+S1882,1982,3,8,30,Reno,NV,89511,US,Programming,E-Gaming,2012
+S4893,1991,6,16,20,Sacramento,CA,95834,US,Programming,E-Gaming,2012
+S4890,1983,8,15,28,Sacramento,CA,95825,US,Programming,E-Gaming,2012
+S2939,1986,7,18,25,sacramento,CA,95831,US,Programming,E-Gaming,2012
+S4818,0,0,0,21,Elk Grove,CA,95758,US,Programming,E-Gaming,2012
+S4898,1989,12,29,22,Sacramento,CA,95838,US,Programming,E-Gaming,2012
+S3010,1990,8,20,21,Berkeley,CA,94704,US,Programming,E-Gaming,2012
+S4810,0,0,0,26,Rohnert Park,CA,94928,US,Programming,E-Gaming,2012
+S5044,0,0,0,22,San Jose,CA,95133,US,Programming,E-Gaming,2012
+S4889,0,0,0,28,Foster City,CA,94404,US,Programming,E-Gaming,2012
+S4900,1991,12,26,20,Sacramento,CA,95831,US,Programming,E-Gaming,2012
+S2248,1994,9,6,17,Pinole,CA,94564,US,Programming,E-Gaming,2012
+S1196,1992,2,23,20,Pinole,CA,94564,US,Programming,E-Gaming,2012
+S4056,1992,3,12,20,Daly City,CA,94015,US,Programming,E-Gaming,2012
+S5047,0,0,0,21,Pinole,CA,94564,US,Programming,E-Gaming,2012
+S3796,1984,7,12,27,San Francisco,CA,94132,US,Programming,E-Gaming,2012
+S1391,1983,11,18,28,santa clara,CA,95051,US,Programming,Tabletop/Social Gaming,2012
+S1286,1984,5,11,28,Santa Clara,CA,95051,US,Programming,Tabletop/Social Gaming,2012
+S1048,1966,2,5,46,Stockton,CA,95206,US,Programming,Tabletop/Social Gaming,2012
+S3362,1987,11,14,24,El Sobrante,CA,94803,US,Programming,Tabletop/Social Gaming,2012
+S3642,1987,10,22,24,Santa Clara,CA,95054,US,Programming,Tabletop/Social Gaming,2012
+S5013,0,0,0,20,San Jose,CA,95133,US,Programming,Tabletop/Social Gaming,2012
+S5007,0,0,0,23,San Jose,CA,95112,US,Programming,Tabletop/Social Gaming,2012
+S3868,1980,4,6,32,Sunnyvale,CA,94089,US,Programming,Tabletop/Social Gaming,2012
+S5214,1986,5,16,26,san mateo,CA,94402-2446,US,Programming,Tabletop/Social Gaming,2012
+S5262,0,0,0,20,oakland,CA,94602,US,Programming,Tabletop/Social Gaming,2012
+S5132,1990,7,10,21,Lake Forest,CA,92630,US,Programming,Tabletop/Social Gaming,2012
+S4118,1988,12,22,23,San Jose,CA,95135,US,Programming,Tabletop/Social Gaming,2012
+S4708,1991,4,16,21,San Jose,CA,93175,US,Programming,Tabletop/Social Gaming,2012
+S2173,1985,5,15,27,Chico,CA,95926,US,Programming,Tabletop/Social Gaming,2012
+S5335,1982,11,11,29,Pacifica,CA,94044,US,Programming,Tabletop/Social Gaming,2012
+S4061,1992,7,5,19,San Jose,CA,95122,US,Programming,Tabletop/Social Gaming,2012
+S4108,1992,6,4,19,sanjose,CA,95148,US,Programming,Tabletop/Social Gaming,2012
+S5334,0,0,0,27,pacifica,CA,94044,US,Programming,Tabletop/Social Gaming,2012
+S4345,1992,2,14,20,Salinas,CA,93907,US,Programming,Tabletop/Social Gaming,2012
+S4035,1965,12,7,46,Stockton,CA,95206,US,Programming,Tabletop/Social Gaming,2012
+S4822,1988,4,11,24,Davis,CA,95618,US,Programming,Tabletop/Social Gaming,2012
+S5336,1990,7,23,21,Pacifica,CA,94044,US,Programming,Tabletop/Social Gaming,2012
+S3988,1990,3,21,22,Sunnyvale,CA,94087,US,Programming,Tabletop/Social Gaming,2012
+S4046,1992,4,30,20,Hayward,CA,94541,US,Programming,Tabletop/Social Gaming,2012
+S5321,1985,6,23,26,San Ramon,CA,94583,US,Programming,Tabletop/Social Gaming,2012
+S5218,1992,3,10,20,San Jose,CA,95136,US,Programming,Tabletop/Social Gaming,2012
+S4738,1991,1,13,21,Alameda,CA,94502,US,Programming,Tabletop/Social Gaming,2012
+S4852,1987,7,25,24,Windsor,CA,95492,US,Programming,Tabletop/Social Gaming,2012
+S0737,1987,4,21,25,Campbell,CA,95008,US,Programming,Tabletop/Social Gaming,2012
+S4141,1993,11,4,18,Oakland,CA,94601,US,Programming,Tabletop/Social Gaming,2012
+S5012,1989,11,22,22,Walnut Creek,CA,94598,US,Programming,Tabletop/Social Gaming,2012
+S3922,0,0,0,20,San Jose,CA,95134,US,Programming,Tabletop/Social Gaming,2012
+S4436,1989,6,15,22,Santa Clara,CA,95051,US,Programming,Tabletop/Social Gaming,2012
+S2083,1991,9,27,20,Hayward,CA,94541,US,Programming,Tabletop/Social Gaming,2012
+S5253,1983,4,10,29,Milpitas,CA,95035,US,Programming,Tabletop/Social Gaming,2012
+S4732,1991,9,10,20,San Lorenzo,CA,95680,US,Programming,Tabletop/Social Gaming,2012
+S5215,1993,7,18,18,San Jose,CA,95132,US,Programming,Tabletop/Social Gaming,2012
+S3210,1987,8,23,24,San Jose,CA,95118,US,Programming,Tabletop/Social Gaming,2012
+S5322,1993,4,12,19,San Jose,CA,95112,US,Programming,Tabletop/Social Gaming,2012
+S4529,1982,7,26,29,San Jose,CA,95123,US,Programming,Tabletop/Social Gaming,2012
+S5323,1994,1,20,18,San Jose,CA,95132,US,Programming,Tabletop/Social Gaming,2012
+S4703,1995,4,4,17,"San Jose, CA",CA,95131-1516,US,Programming,Tabletop/Social Gaming,2012
+S4877,1990,8,29,21,Sunnyvale,CA,94087,US,Programming,Tabletop/Social Gaming,2012
+S3533,1985,7,27,26,Sunnyvale,CA,94086,US,Programming,Game Show,2012
+S3974,1995,5,17,17,Santa Cruz,CA,95060,US,Programming,Game Show,2012
+S0160,0,0,0,39,Long Beach,CA,90803,US,Programming,Karaoke,2012
+S1431,1982,7,20,29,San Bernardino,CA,92407,US,Programming,Karaoke,2012
+S0406,1984,1,29,28,Los Angeles,CA,90026,US,Programming,Karaoke,2012
+S2123,1984,9,20,27,San Diego,CA,92109,US,Programming,Karaoke,2012
+S3840,0,0,0,28,Los Angeles,CA,90038,US,Programming,Karaoke,2012
+S3255,1988,1,11,24,Sunnyvale,CA,94087,US,Programming,Karaoke,2012
+S3943,1989,7,16,22,Los Angeles,CA,90005,US,Programming,Karaoke,2012
+S0405,1978,5,15,34,Las Vegas,NV,89121,US,Programming,Karaoke,2012
+S4131,1989,4,22,23,Los Angeles,CA,90029,US,Programming,Karaoke,2012
+S5160,0,0,0,21,Los Angeles,CA,90020,US,Programming,Karaoke,2012
+S4508,1959,9,10,52,San Jose,CA,95123,US,Clockwork Alchemy,CA Panels,2012
+S1991,1991,11,13,20,Oakhurst,CA,93644,US,Programming,Panels,2012
+S1511,1990,12,31,21,antioch,CA,94509,US,Programming,Panels,2012
+S2180,1992,11,10,19,Antioch,CA,94509,US,Programming,Panels,2012
+S4633,0,0,0,34,San Jose,CA,95123,US,Programming,Panels,2012
+S3136,1989,4,15,23,San Jose,CA,95132,US,Programming,Panels,2012
+S2462,1983,12,9,28,South San Francisco,CA,94080,US,Programming,Panels,2012
+S5267,0,0,0,17,folsom,CA,95630,US,Programming,Panels,2012
+S5198,1990,3,25,22,Fresno,CA,93704,US,Programming,Panels,2012
+S3997,1992,3,18,20,Antioch,CA,94509,US,Programming,Panels,2012
+S3320,1980,7,8,31,sacramento,CA,95825,US,Programming,Panels,2012
+S5225,0,0,0,17,Fremont,CA,94538,US,Programming,Panels,2012
+S5310,0,0,0,19,Fresno,CA,93706,US,Programming,Panels,2012
+S4904,1991,4,11,21,Folsom,CA,95630,US,Programming,Panels,2012
+S3112,1987,4,16,25,Vacaville,CA,95687,US,Programming,Panels,2012
+S4726,1984,12,18,27,Daly City,CA,94014,US,Programming,Panels,2012
+S5256,0,0,0,28,Tracy,CA,95377,US,Programming,Panels,2012
+S4632,0,0,0,33,Grass Valley,CA,95945,US,Programming,Panels,2012
+S3079,1992,11,13,19,Coarsegold,CA,93614,US,Programming,Panels,2012
+S4030,1989,11,29,22,pittsburg,CA,94565,US,Programming,Panels,2012
+S3834,1990,7,23,21,Vallejo,CA,94591,US,Programming,Panels,2012
+S3832,1989,10,31,22,oakley,CA,94561,US,Programming,Panels,2012
+S4097,1982,12,22,29,Sacramento,CA,95831,US,Programming,Panels,2012
+S3830,1981,10,31,30,San Jose,CA,95117,US,Programming,Panels,2012
+S4868,0,0,0,20,Seaside,CA,93955,US,Programming,Panels,2012
+S3831,1990,3,30,22,San Jose,CA,95112,US,Programming,Panels,2012
+S5119,1990,10,30,21,San Francisco,CA,94112,US,Programming,Panels,2012
+S5230,1995,9,28,16,Fresno,CA,93711,US,Programming,Panels,2012
+S1995,1983,7,12,28,San Jose,CA,95121,US,Programming,Panels,2012
+S2820,1983,4,7,29,Daly City,CA,94014,US,Programming,Panels,2012
+S5145,1995,1,6,17,Fremont,CA,94555,US,Programming,Panels,2012
+S3515,1982,11,23,29,Union City,CA,94587,US,Programming,Panels,2012
+S5305,1999,10,27,12,Paradise,CA,95969,US,Programming,Panels,2012
+S2179,1991,8,9,20,Antioch,CA,94509,US,Programming,Panels,2012
+S5226,1989,11,23,22,Saratoga,CA,95070,US,Programming,Panels,2012
+S5227,0,0,0,17,Fremont,CA,94555,US,Programming,Panels,2012
+S1803,1969,9,10,42,San Jose,CA,95125,US,Programming,Bushido,2012
+S2154,1977,8,24,34,Sunnyvale,CA,94086,US,Programming,Bushido,2012
+S3849,1988,6,23,23,San Francisco,CA,94122,US,Programming,Bushido,2012
+S2155,1991,10,9,20,San Jose,CA,95131,US,Programming,Bushido,2012
+S4759,1991,7,30,20,Oceanside,CA,92056,US,Programming,Bushido,2012
+S3874,0,0,0,17,Campbell,CA,95008,US,Programming,Bushido,2012
+S2150,1949,7,27,62,Hayward,CA,94541,US,Programming,Bushido,2012
+S2156,1958,11,18,53,Hayward,CA,94541,US,Programming,Bushido,2012
+S3856,1990,4,28,22,Mountain View,CA,94040,US,Programming,Bushido,2012
+S2158,1983,9,13,28,San Ramon,CA,94582,US,Programming,Bushido,2012
+S2152,1983,2,26,29,Stockton,CA,95215,US,Programming,Bushido,2012
+S2140,1980,3,21,32,San Diego,CA,92126,US,Programming,Bushido,2012
+S3859,0,0,0,21,Oakland,CA,94605,US,Programming,Bushido,2012
+S2157,1987,6,11,24,San Jose,CA,95133,US,Programming,Bushido,2012
+S1932,1987,2,2,25,San Jose,CA,95128,US,Programming,Bushido,2012
+S2139,1988,2,20,24,Escondido,CA,92025,US,Programming,Bushido,2012
+S4791,0,0,0,0,San Jose,CA,95111,US,Programming,Bushido,2012
+S3101,1994,5,9,18,Cupertino,CA,95014,US,Programming,Bushido,2012
+S4439,0,0,0,32,Martinez,CA,94553,US,Programming,Manga Cafe,2012
+S4870,0,0,0,28,sacramento,CA,95822,US,Programming,Manga Cafe,2012
+S4872,1984,1,28,28,San Mateo,CA,94401,US,Programming,Manga Cafe,2012
+S4167,1991,5,13,21,Alamo,CA,94507,US,Programming,Speed Dating,2012
+S4441,0,0,0,0,Sacramento,CA,95828,US,Programming,Speed Dating,2012
+S3723,1989,7,9,22,San Jose,CA,95120,US,Programming,Speed Dating,2012
+S4442,1988,10,21,23,San Leandro,CA,94579,US,Programming,Speed Dating,2012
+S4848,1990,11,10,21,Davis,CA,95616,US,Programming,Speed Dating,2012
+S0025,1986,9,24,25,San Jose,CA,95148,US,Programming,Programming Ops,2012
+S2167,1986,5,5,26,San Jose,CA,95126,US,Programming,Programming Ops,2012
+S0801,1985,11,4,26,Stockton,CA,95210,US,Programming,Programming Ops,2012
+S4793,0,0,0,32,San Francisco,CA,94112,US,Programming,Programming Ops,2012
+S4985,0,0,0,28,Irvine,CA,92614,US,Programming,Programming Ops,2012
+S4741,0,0,0,24,San Jose,CA,95122,US,Programming,Programming Ops,2012
+S5024,1992,12,3,19,san jose,CA,95131,US,Programming,Programming Ops,2012
+S1114,1991,11,8,20,Cupertino,CA,95014,US,Programming,Programming Ops,2012
+S1512,1971,1,20,41,San Ramon,CA,94582,US,Programming,Info Desk,2012
+S4402,1970,6,13,41,Pittsburg,CA,94565,US,Programming,Info Desk,2012
+S0014,1983,9,6,28,San Jose,CA,95121,US,Programming,Info Desk,2012
+S0820,1987,5,3,25,San Jose,CA,95112,US,Programming,Info Desk,2012
+S3927,1995,9,15,16,Antioch,CA,94509,US,Programming,Info Desk,2012
+S0978,1992,7,24,19,Newark,CA,94560,US,Programming,Info Desk,2012
+S4474,1996,10,30,15,Newark,CA,94560,US,Programming,Info Desk,2012
+S4387,1994,5,5,18,Antioch,CA,94509,US,Programming,Info Desk,2012
+S0058,1987,4,16,25,san jose,CA,95148,US,Programming,Info Desk,2012
+S3490,1982,3,23,30,Belmont,CA,94002,US,Programming,Info Desk,2012
+S3930,1988,2,11,24,San Francisco,CA,94118,US,Programming,Info Desk,2012
+S3928,1994,6,11,17,Pitssburg,CA,94565,US,Programming,Info Desk,2012
+S4396,1994,8,21,17,Antioch,CA,94531,US,Programming,Info Desk,2012
+S3154,1992,7,18,19,Hayward,CA,94541,US,Programming,Info Desk,2012
+S5327,0,0,0,0,Newark,CA,94560,US,Programming,Info Desk,2012
+S3049,1989,6,27,22,Martinez,CA,94553,US,Programming,Info Desk,2012
+S0072,1990,8,21,21,san jose,CA,95127,US,Programming,Info Desk,2012
+S4697,1989,2,17,23,San Jose,CA,95118,US,Programming,Info Desk,2012
+S3987,1990,8,3,21,San Jose,CA,95133,US,Programming,Info Desk,2012
+S4536,1995,9,8,16,Antioch,CA,94509,US,Programming,Info Desk,2012
+S4393,1992,9,11,19,Antioch,CA,94531,US,Programming,Info Desk,2012
+S2975,0,0,0,18,Newark,CA,94560,US,Programming,Info Desk,2012
+S4875,1996,10,16,15,Antioch,CA,95431,US,Programming,Info Desk,2012
+S4383,0,0,0,14,Oakley,CA,94509,US,Programming,Info Desk,2012
+S1483,1994,10,7,17,Milbrae,CA,94030,US,Programming,Info Desk,2012
+S4129,1994,5,21,18,Saratoga,CA,95070,US,Programming,Info Desk,2012
+S4596,0,0,0,21,San Jose,CA,95121,US,Programming,Info Desk,2012
+S4385,0,0,0,15,antioch,CA,94509,US,Programming,Info Desk,2012
+S1955,1991,8,29,20,Newark,CA,94560,US,Programming,Info Desk,2012
+S3896,1994,1,23,18,San Jose,CA,95129,US,Programming,Info Desk,2012
+S3494,0,0,0,21,San Jose,CA,95121,US,Programming,Info Desk,2012
+S4398,0,0,0,15,Antioch,CA,94509,US,Programming,Info Desk,2012
+S4386,1996,11,3,15,Antioch,CA,94509,US,Programming,Info Desk,2012
+S5250,0,0,0,17,Fremont,CA,94536,US,Programming,Info Desk,2012
+S4537,1994,1,20,18,Brentwood,CA,94513,US,Programming,Info Desk,2012
+S4400,1997,5,28,14,Brentwood,CA,94513,US,Programming,Info Desk,2012
+S3971,1994,8,19,17,San Jose,CA,95129,US,Programming,Info Desk,2012
+S5221,0,0,0,0,Newark,CA,94560,US,Programming,Info Desk,2012
+S1560,1982,8,18,29,Fremont,CA,94539,US,Programming,Info Desk,2012
+S1958,1990,8,16,21,Newark,CA,94560,US,Programming,Info Desk,2012
+S0775,1985,9,28,26,Vallejo,CA,94591,US,Programming,Stage Zero,2012
+S0474,1975,4,24,37,Pittsburg,CA,94565,US,Programming,Stage Zero,2012
+S0569,1984,5,24,27,Martinez,CA,94553,US,Programming,Stage Zero,2012
+S4548,1985,7,6,26,Daly City,CA,94014,US,Programming,Stage Zero,2012
+S3925,1990,1,7,22,pittsburg,CA,94565,US,Programming,Stage Zero,2012
+S0156,1986,2,5,26,Hayward,CA,94544,US,Programming,Stage Zero,2012
+S0189,1985,6,29,26,Union City,CA,94587,US,Programming,Stage Zero,2012
+S0946,1986,10,10,25,hayward,CA,94545,US,Programming,Stage Zero,2012
+S0929,1987,7,16,24,Hayward,CA,94541,US,Programming,Stage Zero,2012
+S4409,0,0,0,26,Concord,CA,94518,US,Programming,Stage Zero,2012
+S0514,1985,5,9,27,Antioch,CA,94509,US,Programming,Stage Zero,2012
+S2994,1976,1,25,36,San Jose,CA,95124,US,Programming,Stage Zero,2012
+S2993,1976,6,19,35,San Jose,CA,95124,US,Programming,Stage Zero,2012
+S4240,1993,2,5,19,Las Vegas,NV,89130,US,Programming,Stage Zero,2012
+S4377,1991,10,17,20,San Lorenzo,CA,94580,US,Programming,Stage Zero,2012
+S4542,1986,6,16,25,Pittsburg,CA,94565,US,Programming,Stage Zero,2012
+S0568,1983,6,28,28,Eugene,OR,97402,US,Programming,Stage Zero,2012
+S0465,1985,10,26,26,Antioch,CA,94531,US,Programming,Stage Zero,2012
+S1933,1987,6,6,24,El Sobrante,CA,94803,US,Programming,Stage Zero,2012
+S4233,1989,10,19,22,El Sobrante,CA,94803,US,Programming,Stage Zero,2012
+S1924,1988,9,14,23,Vallejo,CA,94591,US,Programming,Stage Zero,2012
+S1905,1991,6,17,20,San Leandro,CA,94578,US,Programming,Stage Zero,2012
+S4002,1982,11,11,29,daly city,CA,94015,US,Programming,Stage Zero,2012
+S2082,1984,3,1,28,sacramento,CA,95835,US,Programming,Stage Zero,2012
+S4543,0,0,0,28,Hayward,CA,94544,US,Programming,Stage Zero,2012
+S0173,1977,2,4,35,campbell,CA,95008,US,Programming,Anime Programming,2012
+S0067,1978,6,21,33,San Jose,CA,95134,US,Programming,Video,2012
+S2778,0,0,0,31,San Jose,CA,95123,US,Programming,Video,2012
+S2779,1981,7,18,30,Mountain View,CA,94043,US,Programming,Video,2012
+S2533,1979,8,21,32,San Jose,CA,95112,US,Programming,Asian Film Room,2012
+S3876,0,0,0,33,San Mateo,CA,94403,US,Programming,Asian Film Room,2012
+S1460,1989,4,22,23,San Jose,CA,95111,US,Programming,Asian Film Room,2012
+S3536,1991,12,9,20,Union City,CA,94587,US,Programming,Asian Film Room,2012
+S2168,1991,6,26,20,Los Gatos,CA,95032,US,Programming,Asian Film Room,2012
+S2169,1990,10,14,21,Carson,CA,90745,US,Programming,Asian Film Room,2012
+S4591,0,0,0,44,Fremont,CA,94539,US,Programming,Asian Film Room,2012
+S2897,1992,3,5,20,San Jose,CA,95111,US,Programming,Asian Film Room,2012
+S3189,1992,11,22,19,San Jose,CA,95132,US,Programming,Asian Film Room,2012
+S4860,1987,7,21,24,San Jose,CA,95122,US,Programming,Anime Programming,2012
+S5204,1983,5,15,29,San Jose,CA,95127,US,Programming,Anime Programming,2012
+S5194,1994,4,28,18,South San Francisco,CA,94080,US,Programming,Anime Programming,2012
+S3633,0,0,0,20,Burlingame,CA,94010,US,Programming,Anime Programming,2012
+S5254,0,0,0,17,San Francisco,CA,94122,US,Programming,Anime Programming,2012
+S4835,1993,10,31,18,San Jose,CA,95148,US,Programming,Anime Programming,2012
+S4993,1992,9,24,19,millbrae,CA,94030,US,Programming,Anime Programming,2012
+S2058,1987,7,18,24,Marina,CA,93933,US,Programming,Anime Programming,2012
+S4725,1988,8,9,23,stockton,CA,95207,US,Programming,Anime Programming,2012
+S3634,1993,1,10,19,San Jose,CA,95133,US,Programming,Anime Programming,2012
+S4834,1993,3,19,19,San jose,CA,95127,US,Programming,Anime Programming,2012
+S1377,1990,5,15,22,san jose,CA,95111,US,Programming,Anime Programming,2012
+S4724,0,0,0,22,Stockton,CA,95201,US,Programming,Anime Programming,2012
+S5026,1992,2,18,20,Millbrae,CA,94030,US,Programming,Anime Programming,2012
+S5252,0,0,0,18,San Pablo,CA,94806,US,Programming,Anime Programming,2012
+S5000,0,0,0,22,San Jose,CA,95120,US,Programming,Anime Programming,2012
+S2984,1993,5,18,19,San Jose,CA,95121,US,Programming,Anime Programming,2012
+S0226,1980,4,1,32,San Francisco,CA,94127,US,Programming,Anime Programming,2012
+S4992,1992,7,23,19,Foster City,CA,94404,US,Programming,Anime Programming,2012
+S0574,1984,10,3,27,Panorama City,CA,91402,US,Programming,Fanime Music Video,2012
+S2512,1987,5,20,25,Panorama City,CA,91402,US,Programming,Fanime Music Video,2012
+S0006,1982,6,4,29,Berkeley,CA,94709,US,Guest Relations,Guest Relations,2012
+S3265,0,0,0,35,Hayward,CA,9,US,Guest Relations,Guest Relations,2012
+S0007,1983,4,16,29,Oakland,CA,94607,US,Guest Relations,Guest Relations,2012
+S0076,1978,10,4,33,Albany,CA,94706,US,Guest Relations,Guest Relations,2012
+S1541,1972,9,3,39,Inglewood,CA,90305,US,Guest Relations,Guest Relations,2012
+S1439,1986,1,25,26,Fresno,CA,93720,US,Guest Relations,Guest Relations,2012
+S2855,0,0,0,25,Pleasanton,CA,94588,US,Guest Relations,Guest Relations,2012
+S4735,0,0,0,21,San Francisco,CA,94122,US,Guest Relations,Guest Relations,2012
+S2134,1992,8,25,19,San Ramon,CA,94582,US,Guest Relations,Guest Relations,2012
+S3137,1986,1,27,26,Modesto,CA,95354,US,Guest Relations,Guest Relations,2012
+S2859,1982,4,2,30,Atascadero,CA,93422,US,Guest Relations,Guest Relations,2012
+S3236,1984,12,22,27,Hawthorne,CA,90250,US,Guest Relations,Guest Relations,2012
+S1749,1986,11,1,25,San Jose,CA,95132,US,Guest Relations,Guest Relations,2012
+S3931,1993,4,14,19,San Jose,CA,95122,US,Guest Relations,Guest Relations,2012
+S3655,1988,1,22,24,Buena Park,CA,90621,US,Guest Relations,Guest Relations,2012
+S5116,0,0,0,23,Hayward,CA,94542,US,Guest Relations,Guest Relations,2012
+S4570,1983,6,25,28,Harbor City,CA,90710,US,Guest Relations,Guest Relations,2012
+S0595,1974,8,7,37,Stockton,CA,95210,US,Guest Relations,Guest Relations,2012
+S2904,1992,11,16,19,san jose,CA,95111,US,Guest Relations,Guest Relations,2012
+S1712,1985,8,20,26,Santa Clara,CA,95054,US,Guest Relations,Guest Relations,2012
+S0369,1972,10,28,39,SARATOGA SPRINGS,NY,12866-9480,US,Guest Relations,Guest Relations,2012
+S3685,1988,4,23,24,San Jose,CA,95127,US,Guest Relations,Guest Relations,2012
+S0551,1986,7,15,25,Stockton,CA,95204,US,Guest Relations,Autographs,2012
+S1278,1986,2,12,26,Sebastopol,CA,95472,US,Guest Relations,Autographs,2012
+S5077,0,0,0,26,Urbana,IL,61801,US,Guest Relations,Autographs,2012
+S4022,1988,7,23,23,Las Vegas,NV,89113,US,Guest Relations,Autographs,2012
+S3214,1988,9,25,23,Stockton,CA,95204,US,Guest Relations,Autographs,2012
+S3043,0,0,0,22,South San Francisco,CA,94080,US,Guest Relations,Autographs,2012
+S0985,1990,8,3,21,Marina,CA,93933,US,Guest Relations,Green Room,2012
+S0712,1988,7,27,23,San Jose,CA,95148,US,Guest Relations,Green Room,2012
+S5111,1991,10,25,20,San Francisco,CA,94117,US,Guest Relations,Green Room,2012
+S0704,1983,1,12,29,Sacramento,CA,95833,US,Guest Relations,MusicFest,2012
+S3283,0,0,0,29,San Francisco,CA,94116,US,Guest Relations,MusicFest,2012
+S0361,1983,8,26,28,Daly City,CA,94015,US,Guest Relations,MusicFest,2012
+S0437,1987,12,25,24,San Jose,CA,95130,US,Guest Relations,MusicFest,2012
+S5172,0,0,0,0,San Jose,CA,95110,US,Guest Relations,MusicFest,2012
+S0819,1978,10,9,33,Fresno,CA,93726,US,Guest Relations,MusicFest,2012
+S3949,1991,11,10,20,San Jose,CA,95122,US,Guest Relations,MusicFest,2012
+S4692,0,0,0,34,San Jose,CA,95122,US,Guest Relations,MusicFest,2012
+S4510,1992,11,26,19,Waterford,CA,95386,US,Guest Relations,MusicFest,2012
+S4511,1985,3,29,27,Reno,NV,89523,US,Guest Relations,MusicFest,2012
+S2287,1987,5,27,24,Piedmont,CA,94611,US,Guest Relations,MusicFest,2012
+S2290,1985,6,17,26,Lowell,MA,01852,US,Guest Relations,MusicFest,2012
+S4496,0,0,0,31,Cupertino,CA,95014,US,Guest Relations,MusicFest,2012
+S0149,1978,1,21,34,Milpitas,CA,95035,US,Extravaganzas,Extravaganzas,2012
+S4012,0,0,0,38,Milpitas,CA,95035,US,Extravaganzas,Extravaganzas,2012
+S1671,1976,12,8,35,San Jose,CA,95132,US,Extravaganzas,Black and White Ball,2012
+S3012,1982,9,19,29,San Jose,CA,95126,US,Extravaganzas,Black and White Ball,2012
+S3799,1990,10,23,21,Concord,CA,94519,US,Extravaganzas,Black and White Ball,2012
+S3417,0,0,0,32,sunnyvale,CA,94087,US,Extravaganzas,Black and White Ball,2012
+S4832,0,0,0,26,San Jose,CA,95128,US,Extravaganzas,Black and White Ball,2012
+S4833,0,0,0,24,Fairfield,CA,94533,US,Extravaganzas,Black and White Ball,2012
+S4828,0,0,0,21,Sunnyvale,CA,94089,US,Extravaganzas,Black and White Ball,2012
+S2931,0,0,0,38,ALISO VIEJO,CA,92656,US,Extravaganzas,Black and White Ball,2012
+S4878,1989,3,22,23,San Jose,CA,95192,US,Extravaganzas,Black and White Ball,2012
+S3798,0,0,0,22,san jose,CA,95135,US,Extravaganzas,Black and White Ball,2012
+S4829,0,0,0,21,Walnut Creek,CA,94595,US,Extravaganzas,Black and White Ball,2012
+S4830,1985,8,21,26,El Sobrante,CA,94803,US,Extravaganzas,Black and White Ball,2012
+S2932,1982,3,29,30,Elk Grove,CA,95624,US,Extravaganzas,Black and White Ball,2012
+S0875,1979,11,1,32,El Segundo,CA,90245,US,Extravaganzas,Cosplay,2012
+S5177,0,0,0,27,studio city,CA,91604,US,Extravaganzas,Cosplay,2012
+S0873,1978,8,24,33,Culver City,CA,90230,US,Extravaganzas,Cosplay,2012
+S2142,1974,9,16,37,Lakewood,CA,90712,US,Extravaganzas,Cosplay,2012
+S3828,0,0,0,43,San Jose,CA,95132,US,Extravaganzas,Cosplay,2012
+S0919,1978,9,5,33,Los Angeles,CA,90014,US,Extravaganzas,Cosplay,2012
+S0560,0,0,0,38,Irvine,CA,92620,US,Extravaganzas,Cosplay,2012
+S5187,0,0,0,31,Hayward,CA,94545,US,Extravaganzas,Cosplay,2012
+S1793,1990,11,7,21,Anaheim,CA,92801,US,Extravaganzas,Maid Cafe,2012
+S3781,1984,1,5,28,Santa Cruz,CA,95060,US,Extravaganzas,Maid Cafe,2012
+S4729,1983,10,4,28,Santa Cruz,CA,95060,US,Extravaganzas,Maid Cafe,2012
+S3753,1990,5,22,21,San Francisco,CA,94132,US,Extravaganzas,Maid Cafe,2012
+S4717,1994,5,5,18,Foster City,CA,94404,US,Extravaganzas,Maid Cafe,2012
+S3400,1973,12,29,38,San Mateo,CA,94403,US,Extravaganzas,Maid Cafe,2012
+S3402,1991,2,27,21,San Francsico,CA,94109,US,Extravaganzas,Maid Cafe,2012
+S2453,1983,9,27,28,Huntington Beach,CA,92648,US,Extravaganzas,Maid Cafe,2012
+S0730,1986,5,8,26,Silver Spring,MD,20904,US,Operations,Operations,2012
+S3284,1978,3,9,34,Santa Clara,CA,95050,US,Operations,Operations,2012
+S4290,0,0,0,42,Fremont,CA,94539,US,Operations,Operations,2012
+S2316,1976,2,26,36,San Jose,CA,95118,US,Operations,Operations,2012
+S3632,1959,6,10,52,Los Gatos,CA,95032,US,Operations,Operations,2012
+S2291,0,0,0,36,San Jose,CA,95130,US,Operations,Operations,2012
+S5292,1970,4,5,42,Milpitas,CA,95035,US,Operations,Operations,2012
+S0111,1972,12,19,39,santa clara,CA,95051,US,Operations,ConOps,2012
+S3910,1990,1,11,22,Berkeley,CA,94703,US,Operations,ConOps,2012
+S3059,1992,2,7,20,Fremont,CA,94536,US,Operations,ConOps,2012
+S4032,1972,9,4,39,San Francisco,CA,94117,US,Operations,ConOps,2012
+S5051,1970,11,6,41,Alameda,CA,94501,US,Operations,ConOps,2012
+S3745,1984,4,3,28,Santa Clara,CA,95051,US,Operations,ConOps,2012
+S4819,0,0,0,29,San Jose,CA,95112,US,Operations,ConOps,2012
+S4416,1984,4,20,28,San Jose,CA,95125,US,Operations,ConOps,2012
+S4957,1989,10,11,22,Redwood City,CA,94063,US,Operations,ConOps,2012
+S5148,1991,9,10,20,Pine Mountain Club,CA,93222,US,Operations,ConOps,2012
+S5248,0,0,0,17,Milpitas,CA,95035,US,Operations,ConOps,2012
+S4100,1989,10,28,22,San Jose,CA,95112,US,Operations,ConOps,2012
+S4748,0,0,0,20,Alamo,CA,94507,US,Operations,Rovers,2012
+S4723,0,0,0,20,Temple City,CA,91780,US,Operations,ConOps,2012
+S4417,0,0,0,23,San Jose,CA,95123,US,Operations,ConOps,2012
+S3048,1991,2,28,21,Cypress,CA,90630,US,Operations,ConOps,2012
+S3531,0,0,0,21,Danville,CA,94506,US,Operations,ConOps,2012
+S4887,1992,1,20,20,San Jose,CA,95148,US,Operations,ConOps,2012
+S4888,1992,8,29,19,San Jose,CA,95148,US,Operations,ConOps,2012
+S5118,1989,5,23,22,Redwood City,CA,94063,US,Operations,ConOps,2012
+S4009,0,0,0,17,Dixon,CA,95620,US,Operations,ConOps,2012
+S0094,1979,2,7,33,San Jose,CA,95126,US,Operations,Logistics,2012
+S0391,1963,4,26,49,San Jose,CA,95126,US,Operations,Logistics,2012
+S0099,1985,4,30,27,San Jose,CA,95148,US,Operations,Logistics,2012
+S3003,1987,7,22,24,san lorenzo,CA,94580,US,Operations,Logistics,2012
+S3565,0,0,0,18,San Lorenzo,CA,94580,US,Operations,Logistics,2012
+S0125,1987,8,27,24,san jose,CA,95126,US,Operations,Logistics,2012
+S3566,1992,2,24,20,San Leandro,CA,94579,US,Operations,Logistics,2012
+S4372,1991,7,4,20,San Leandro,CA,94579,US,Operations,Logistics,2012
+S3042,1992,6,5,19,San Leandro,CA,94577,US,Operations,Logistics,2012
+S2267,1985,4,28,27,ALISO VIEJO,CA,92656,US,Operations,Logistics,2012
+S2847,1991,8,21,20,Santa Clara,CA,95054,US,Operations,Logistics,2012
+S2268,1986,6,15,25,Morgan Hill,CA,95037,US,Operations,Logistics,2012
+S0632,1957,9,15,54,San Jose,CA,95126,US,Operations,Logistics,2012
+S0577,1988,12,17,23,San Leandrod,CA,94577,US,Operations,Logistics,2012
+S5146,1990,10,9,21,san lorenzo,CA,9458,US,Operations,Logistics,2012
+S5147,1989,1,30,23,san lorenzo,CA,94580,US,Operations,Logistics,2012
+S0120,1988,3,19,24,Hayward,CA,94541,US,Operations,Logistics,2012
+S2281,1983,1,1,29,San Jose,CA,95136,US,Operations,Logistics,2012
+S4541,1993,2,12,19,Oakland,CA,94606,US,Operations,Logistics,2012
+S0966,1986,3,23,26,San Jose,CA,95119,US,Operations,Logistics,2012
+S2103,1984,12,5,27,San Jose,CA,95119,US,Operations,Logistics,2012
+S4295,0,0,0,0,Antioch,CA,94531,US,Operations,Lost and Found,2012
+S4533,1976,7,16,35,San Jose,CA,95126,US,Operations,Lost and Found,2012
+S1297,1988,5,20,24,Martinez,CA,94553,US,Operations,Lost and Found,2012
+S4353,0,0,0,0,San Jose,CA,95116,US,Operations,Lost and Found,2012
+S4847,1984,5,18,28,South San Francisco,CA,94080,US,Operations,Lost and Found,2012
+S5201,1974,4,19,38,Santa Clara,CA,95050,US,Operations,Lost and Found,2012
+S4880,1970,5,14,42,San Jose,CA,95132-2066,US,Operations,Lost and Found,2012
+S4404,1985,1,6,27,palo alto,CA,94306,US,Operations,Lost and Found,2012
+S0438,1987,3,6,25,Fremont,CA,94555,US,Operations,Rovers,2012
+S1851,1989,3,23,23,Union City,CA,94587,US,Operations,Rovers,2012
+S0851,1984,9,17,27,Ben Lomond,CA,95005,US,Operations,Rovers,2012
+S2232,1982,8,17,29,Oakley,CA,94561,US,Operations,Rovers,2012
+S4647,1988,6,30,23,San Jose,CA,95116,US,Operations,Rovers,2012
+S3212,1983,3,5,29,San Jose,CA,95126,US,Operations,Rovers,2012
+S1136,1978,8,16,33,Martinez,CA,94553,US,Operations,Rovers,2012
+S4605,1989,12,21,22,San Jose,CA,95111,US,Operations,Rovers,2012
+S0630,1970,2,9,42,San Jose,CA,95136,US,Operations,Rovers,2012
+S2713,1990,8,30,21,Fremont,CA,94555,US,Operations,Rovers,2012
+S5025,0,0,0,18,san jose,CA,95148,US,Operations,Rovers,2012
+S3880,1977,3,29,35,san jose,CA,95111,US,Operations,Rovers,2012
+S4940,1992,9,22,19,Daly city,CA,94015-3623,US,Operations,Rovers,2012
+S0218,1986,3,21,26,Fremont,CA,94536,US,Operations,Rovers,2012
+S4951,1993,11,30,18,Hayward,CA,94545,US,Operations,Rovers,2012
+S4917,1989,10,13,22,newark,CA,94560,US,Operations,Rovers,2012
+S3980,1991,1,14,21,sacramento,CA,95818,US,Operations,Rovers,2012
+S3759,0,0,0,22,South San Francisco,CA,94080,US,Operations,Rovers,2012
+S5142,1991,7,18,20,Atascadero,CA,93422,US,Operations,Rovers,2012
+S4037,1988,3,18,24,Hayward,CA,94541,US,Operations,Rovers,2012
+S4953,1990,7,27,21,Irvine,CA,92617,US,Operations,Rovers,2012
+S5280,1993,12,24,18,Santa Cruz,CA,95062,US,Operations,Rovers,2012
+S3606,1988,3,28,24,san jose,CA,95139,US,Operations,Rovers,2012
+S5110,0,0,0,23,San Jose,CA,95123,US,Operations,Rovers,2012
+S4942,1991,9,19,20,Newark,CA,94560,US,Operations,Rovers,2012
+S3960,1981,1,21,31,San Jose,CA,95112,US,Operations,Rovers,2012
+S4638,0,0,0,21,San Jose,CA,95111,US,Operations,Rovers,2012
+S3720,0,0,0,20,Corte Madera,CA,94925,US,Operations,Rovers,2012
+S4907,0,0,0,19,San Leandro,CA,94579,US,Operations,Rovers,2012
+S1137,1980,10,11,31,Oakland,CA,94602,US,Operations,Rovers,2012
+S3552,0,0,0,29,Concord,CA,94520,US,Operations,Rovers,2012
+S2172,1991,4,2,21,San Jose,CA,95133,US,Operations,Rovers,2012
+S0813,1985,5,15,27,Cupertino,CA,95014,US,Operations,Rovers,2012
+S4915,1993,3,24,19,San Lorenzo,CA,94580,US,Operations,Rovers,2012
+S3760,1991,8,8,20,San Jose,CA,95127,US,Operations,Rovers,2012
+S4916,1991,3,14,21,Campbell,CA,95008,US,Operations,Rovers,2012
+S5197,1991,6,28,20,Clovis,CA,93611,US,Operations,Rovers,2012
+S4931,1993,9,5,18,Milpitas,CA,95035,US,Operations,Rovers,2012
+S5105,0,0,0,20,San Jose,CA,95135,US,Operations,Rovers,2012
+S3639,1991,5,30,20,Hayward,CA,94542,US,Operations,Rovers,2012
+S5207,1992,7,11,19,Los Gatos,CA,95032,US,Operations,Rovers,2012
+S3843,1990,8,28,21,Fremont,CA,94555,US,Operations,Rovers,2012
+S3761,0,0,0,21,San Jose,CA,95122,US,Operations,Rovers,2012
+S4929,0,0,0,19,Newark,CA,94560,US,Operations,Rovers,2012
+S2238,1989,1,26,23,Chico,CA,95928,US,Operations,Rovers,2012
+S5029,1991,9,10,20,Pacheco,CA,94553,US,Operations,Rovers,2012
+S2170,1990,2,14,22,Pleasanton,CA,94588,US,Operations,Rovers,2012
+S2952,1973,3,13,39,Citrus Heights,CA,95621,US,Operations,Rovers,2012
+S4925,0,0,0,24,Union City,CA,94587,US,Operations,Rovers,2012
+S3992,1990,1,31,22,Burlingame,CA,94010,US,Operations,Rovers,2012
+S4914,0,0,0,22,Turlock,CA,95382,US,Operations,Rovers,2012
+S4935,1991,1,10,21,San Jose,CA,95131,US,Operations,Rovers,2012
+S3714,0,0,0,22,Palo Alto,CA,94301,US,Operations,Rovers,2012
+S1642,1985,1,6,27,Concord,CA,94520,US,Operations,Rovers,2012
+S2329,1988,1,18,24,San Francisco,CA,94122,US,Operations,Rovers,2012
+S4933,1989,3,9,23,Union City,CA,94587,US,Operations,Rovers,2012
+S4952,1993,10,21,18,San Jose,CA,95126,US,Operations,Rovers,2012
+S4923,1988,11,23,23,San Jose,CA,95126,US,Operations,Rovers,2012
+S1257,1988,4,6,24,Stockton,CA,95206,US,Operations,Rovers,2012
+S5162,1988,8,18,23,Redwood City,CA,94062,US,Operations,Rovers,2012
+S5113,0,0,0,23,SANTA CRUZ,CA,95060,US,Operations,Rovers,2012
+S3718,1991,8,30,20,Corte Madera,CA,94925,US,Operations,Rovers,2012
+S4938,1992,5,19,20,French Camp,CA,95231,US,Operations,Rovers,2012
+S5247,1986,5,5,26,Alhambra,CA,91803,US,Operations,Rovers,2012
+S4648,1992,6,3,19,san jose,CA,95133,US,Operations,Rovers,2012
+S0074,1983,8,11,28,San Jose,CA,95148,US,Operations,Rovers,2012
+S2039,1990,6,5,21,san jose,CA,95148,US,Operations,Rovers,2012
+S5028,1993,10,17,18,Milpitas,CA,95035,US,Operations,Rovers,2012
+S4981,0,0,0,23,Huntington Beach,CA,92647,US,Operations,Rovers,2012
+S2762,1976,6,4,35,San Francisco,CA,94112,US,Operations,Rovers,2012
+S3719,1992,4,16,20,San Anselmo,CA,94960,US,Operations,Rovers,2012
+S3197,1991,1,4,21,San Jose,CA,95148,US,Operations,Rovers,2012
+S3999,1992,11,20,19,San Jose,CA,95127,US,Operations,Rovers,2012
+S2807,1990,10,10,21,Berkeley,CA,94709,US,Operations,Rovers,2012
+S0852,1980,2,21,32,San Jose,CA,95148,US,Operations,Rovers,2012
+S4045,1992,4,11,20,Hayward,CA,94544,US,Operations,Rovers,2012
+S1630,1984,9,11,27,Livermore,CA,94550,US,Operations,Rovers,2012
+S0242,1989,4,27,23,San Jose,CA,95122,US,Operations,Rovers,2012
+S3962,1990,5,31,21,Martinez,CA,94553,US,Operations,Rovers,2012
+S3441,1985,4,26,27,Concord,CA,94521,US,Operations,Rovers,2012
+S3561,1988,4,11,24,Fremont,CA,94536,US,Operations,Rovers,2012
+S4936,1992,6,20,19,Milpitas,CA,95035,US,Operations,Rovers,2012
+S3127,1984,1,24,28,Campbell,CA,95008,US,Operations,Rovers,2012
+S3457,1985,1,21,27,san jose,CA,95126,US,Operations,Rovers,2012
+S4918,1992,1,13,20,San Jose,CA,95133,US,Operations,Rovers,2012
+S2888,1989,6,1,22,Union City,CA,94587,US,Operations,Rovers,2012
+S5300,1992,12,16,19,hayward,CA,94544,US,Operations,Rovers,2012
+S4954,1990,7,10,21,Irvine,CA,92617,US,Operations,Rovers,2012
+S3077,1986,1,15,26,Pleasant Hill,CA,94523,US,Operations,Rovers,2012
+S3173,1989,4,18,23,fremont,CA,94536,US,Operations,Rovers,2012
+S4927,1992,3,5,20,Campbell,CA,95008,US,Operations,Rovers,2012
+S0227,1980,4,1,32,San Francisco,CA,94127,US,Operations,Rovers,2012
+S4919,1986,2,9,26,San Jose,CA,95120,US,Operations,Rovers,2012
+S4922,1993,5,25,18,Antelope,CA,95843,US,Operations,Rovers,2012
+S2211,1990,12,17,21,Santa Clara,CA,95054,US,Operations,Rovers,2012
+S4913,1991,1,16,21,Milpitas,CA,95035,US,Operations,Rovers,2012
+S5079,0,0,0,20,Martinez,CA,94553,US,Operations,Rovers,2012
+S4946,0,0,0,23,Union City,CA,94587,US,Operations,Rovers,2012
+S5205,1970,7,27,41,benicia,CA,94510,US,Operations,Rovers,2012
+S4928,1993,1,12,19,San Leandro,CA,94579,US,Operations,Rovers,2012
+S1503,1987,11,26,24,Orland,CA,95963,US,Operations,Rovers,2012
+S4628,1988,11,28,23,Union City,CA,94587,US,Operations,Rovers,2012
+S3126,1987,9,4,24,Orland,CA,95963,US,Operations,Rovers,2012
+S4662,1985,10,28,26,Union City,CA,94587,US,Operations,Rovers,2012
+S3966,1988,12,5,23,Union City,CA,94587,US,Operations,Rovers,2012
+S3721,1990,7,26,21,San Jose,CA,95112,US,Operations,Rovers,2012
+S5222,1990,2,15,22,San Francisco,CA,94116,US,Operations,Rovers,2012
+S5027,1994,4,15,18,milpitas,CA,95035,US,Operations,Rovers,2012
+S4044,1992,4,5,20,Hayward,CA,94541,US,Operations,Rovers,2012
+S5223,1979,12,10,32,San Jose,CA,95130,US,Operations,Rovers,2012
+S5209,1992,3,6,20,San Jose,CA,95127,US,Operations,Rovers,2012
+S0874,1985,10,23,26,Monterey,CA,93944,US,Operations,Rovers,2012
+S2761,1983,11,17,28,San Jose,CA,95112,US,Operations,Rovers,2012
+S3604,1990,3,25,22,san jose,CA,95123,US,Operations,Rovers,2012
+S2720,1983,8,19,28,Lafayette,CA,94549,US,Operations,Rovers,2012
+S2223,1985,5,14,27,Livermore,CA,94550,US,Operations,Rovers,2012
+S2962,1990,4,9,22,San Jose,CA,95111,US,Operations,Rovers,2012
+S5203,0,0,0,29,SSF,CA,94080,US,Operations,Rovers,2012
+S1707,1987,7,5,24,South San Francisco,CA,94080,US,Operations,Rovers,2012
+S4144,0,0,0,28,SOUTH SAN FRANCISCO,CA,94080,US,Operations,Rovers,2012
+S2035,1988,11,9,23,Pleasant Hill,CA,94523,US,Operations,Rovers,2012
+S5087,1989,1,10,23,Fremont,CA,94536,US,Operations,Rovers,2012
+S5083,1988,6,18,23,San Francisco,CA,94134,US,Operations,Rovers,2012
+S4926,1993,2,28,19,antelope,CA,95843,US,Operations,Rovers,2012
+S1192,1989,9,23,22,Milpitas,CA,95035,US,Operations,Rovers,2012
+S4945,1992,2,9,20,San Jose,CA,95123,US,Operations,Rovers,2012
+S2393,1987,7,15,24,Los Gatos,CA,95032,US,Operations,Rovers,2012
+S2757,1985,12,21,26,san jose,CA,95123,US,Operations,Rovers,2012
+S0104,1979,6,16,32,Union City,CA,94587,US,Operations,Tech,2012
+S4589,0,0,0,21,San Jose,CA,95131,US,Operations,Tech,2012
+S2845,1990,2,2,22,Atherton,CA,94027,US,Operations,Tech,2012
+S0088,1981,10,13,30,Santa Clara,CA,95050-6138,US,Operations,Tech,2012
+S4590,1991,8,10,20,Reno,NV,89508,US,Operations,Tech,2012
+S0617,1964,12,22,47,Fresno,CA,93727-4155,US,Operations,Tech,2012
+S1205,1990,5,7,22,los gatos,CA,95043,US,Operations,Tech,2012
+S0222,1985,8,4,26,Redwood City,CA,94061,US,Operations,Tech,2012
+S4879,1990,8,23,21,San Francisco,CA,94131-1025,US,Operations,Tech,2012
+S3488,0,0,0,22,Mountain View,CA,94041,US,Operations,Tech,2012
+S4866,1988,8,11,23,Oakland,CA,94605,US,Operations,Tech,2012
+S2201,1949,1,19,63,San Jose,CA,95129-3108,US,Operations,Tech,2012
+S4415,1990,5,31,21,Los Altos,CA,94022,US,Operations,Tech,2012
+S5193,0,0,0,26,Mountain View,CA,94043,US,Operations,Tech,2012
+S1120,1980,8,25,31,Sacramento,CA,95820,US,Operations,Tech,2012
+S3332,1978,3,13,34,Pleasanton,CA,94588,US,Operations,Volunteers,2012
+S3244,1993,8,7,18,San Jose,CA,95148,US,Operations,Volunteers,2012
+S1936,1991,1,21,21,San Jose,CA,95148,US,Operations,Volunteers,2012
+S0506,1980,10,14,31,South San Francisco,CA,94080,US,Operations,Volunteers,2012
+S3937,1992,10,4,19,Sacramento,CA,95831,US,Operations,Volunteers,2012
+S1935,1991,10,19,20,San Jose,CA,95148,US,Operations,Volunteers,2012
+S2542,1992,12,7,19,Stockton,CA,95210,US,Operations,Volunteers,2012
+S0256,1987,5,11,25,San Jose,CA,95148,US,Operations,Volunteers,2012
+S5275,0,0,0,18,San Jose,CA,95133,US,Operations,Volunteers,2012
+S3684,1991,6,10,20,Los Angeles,CA,90019,US,Operations,Volunteers,2012
+S3994,1992,2,11,20,Newport Coast,CA,92657,US,Operations,Volunteers,2012
+S0012,1978,8,8,33,San Francisco,CA,94118,US,Anime Resource Group,Anime Resource Group,2012
+S0098,1983,5,17,29,San Francisco,CA,94122,US,Human Resources,Human Resources,2012
+S3052,0,0,0,28,San Francisco,CA,94122,US,Human Resources,Human Resources,2012
+S0402,1979,8,30,32,Fremont,CA,94536,US,Human Resources,Human Resources,2012
+S4102,1985,9,17,26,Daly City,CA,94015,US,Human Resources,Human Resources,2012
+S0255,1980,7,17,31,Fremont,CA,94536,US,Human Resources,Human Resources,2012
+S3051,0,0,0,22,Portland,OR,97229,US,Human Resources,Human Resources,2012
+S5097,1975,12,25,36,San Francisco,CA,94122,US,Human Resources,Human Resources,2012
+S3092,0,0,0,27,San Leandro,CA,94578,US,Human Resources,Human Resources,2012
+S3109,1983,9,7,28,Pleasant Hill,CA,94523,US,Human Resources,Human Resources,2012
+S4020,0,0,0,31,Redwood City,CA,94062,US,Human Resources,Human Resources,2012
+S4103,2007,10,4,4,Daly City,CA,94015,US,Human Resources,Human Resources,2012
+S4101,1985,11,30,26,Daly City,CA,94015,US,Human Resources,Human Resources,2012
+S3050,0,0,0,21,Piedmont,CA,94611,US,Human Resources,Human Resources,2012
+S4120,1999,12,9,12,Sacramento,CA,95822,US,Human Resources,Chibi-Staff,2012
+S4839,2009,7,11,2,San Ramon,CA,94582,US,Human Resources,Chibi-Staff,2012
+S4840,2012,2,23,0,Santa Clara,CA,95050,US,Human Resources,Chibi-Staff,2012
+S4836,2011,7,15,0,Sacramento,CA,95820,US,Human Resources,Chibi-Staff,2012
+S4838,0,0,0,0,Milpitas,CA,95035,US,Human Resources,Chibi-Staff,2012
+S0756,1981,1,21,31,Menlo Park,CA,94025,US,Human Resources,Handbook,2012
+S0084,1971,7,12,40,Sunnyvale,CA,94087,US,Anime Resource Group,Anime Resource Group,2012
+S0063,1978,1,31,34,Davis,CA,95616,US,Anime Resource Group,Anime Resource Group,2012
+S0083,1957,12,14,54,Pflugerville,TX,78660,US,Anime Resource Group,Anime Resource Group,2012
+S3080,1986,5,12,26,Davis,CA,95616,US,Anime Resource Group,Anime Resource Group,2012
+S2256,1982,6,30,29,Daly City,CA,94015,US,Anime Resource Group,Anime Resource Group,2012
+S4143,0,0,0,31,South San francisco,CA,94080,US,Anime Resource Group,Anime Resource Group,2012
+S4148,0,0,0,29,San Francisco,CA,94134,US,Anime Resource Group,Anime Resource Group,2012
+S4028,1981,11,2,30,Davis,CA,95616,US,Anime Resource Group,Anime Resource Group,2012
+S4338,1986,9,25,25,Martinez,CA,94553,US,Anime Resource Group,Anime Resource Group,2012
+S0093,1976,3,25,36,Citrus Heights,CA,95621,US,Anime Resource Group,Repository,2012
+S4989,0,0,0,26,Ontario,CA,91762,US,Anime Resource Group,Repository,2012
+S4987,0,0,0,23,HUNTINGTON BEACH,CA,92647-8971,US,Anime Resource Group,Repository,2012
+S4988,0,0,0,27,Redlands,CA,92374,US,Anime Resource Group,Repository,2012
+S4990,1990,4,13,22,huntington beach,CA,92649,US,Anime Resource Group,Repository,2012
+S0276,1988,11,13,23,Colma,CA,94014,US,Anime Resource Group,Facilities,2012
+S1605,1987,11,17,24,San Francisco,CA,94116,US,Anime Resource Group,Facilities,2012
+S5134,1986,7,11,25,San Francisco,CA,94117,US,Anime Resource Group,Facilities,2012
+S3430,0,0,0,47,Van Nuys,CA,91406,US,Anime Resource Group,Facilities,2012
+S0793,1974,7,1,37,San Jose,CA,95128,US,Anime Resource Group,Facilities,2012
+S1242,1989,1,28,23,Lahaina,HI,96761,US,Anime Resource Group,Facilities,2012
+S2829,0,0,0,52,Greensboro,NC,27408,US,Anime Resource Group,Facilities,2012
+S4165,1976,9,18,35,San Jose,CA,95134,US,Anime Resource Group,Facilities,2012
+S0545,1974,8,30,37,San Lorenzo,CA,94580,US,Clockwork Alchemy,Clockwork Alchemy,2012
+S4518,1965,7,13,46,San Jose,CA,95128,US,Clockwork Alchemy,Clockwork Alchemy,2012
+S4959,1957,7,3,54,San Bruno,CA,94066,US,Clockwork Alchemy,Western Martial Arts,2012
+S5010,0,0,0,49,San Francisco,CA,94127,US,Clockwork Alchemy,Western Martial Arts,2012
+S5243,1963,9,20,48,Rohnert Park,CA,94928,US,Clockwork Alchemy,Western Martial Arts,2012
+S5011,1984,1,4,28,San Francisco,CA,94132,US,Clockwork Alchemy,Western Martial Arts,2012
+S5244,0,0,0,0,San Francisco,CA,94107,US,Clockwork Alchemy,Western Martial Arts,2012
+S5337,1968,5,29,43,Turlock,CA,95382,US,Clockwork Alchemy,Western Martial Arts,2012
+S5314,1959,11,18,52,San Bruno,CA,94066,US,Clockwork Alchemy,Western Martial Arts,2012
+S5315,1997,2,7,15,San Bruno,CA,94066,US,Clockwork Alchemy,Western Martial Arts,2012
+S5237,0,0,0,27,San Bruno,CA,94066,US,Clockwork Alchemy,Western Martial Arts,2012
+S5232,0,0,0,38,dixon,CA,95620,US,Clockwork Alchemy,Western Martial Arts,2012
+S5304,1951,10,25,60,Rio Linda,CA,95673,US,Clockwork Alchemy,Western Martial Arts,2012
+S5251,0,0,0,53,San Jose,CA,95123,US,Clockwork Alchemy,Western Martial Arts,2012
+S5245,0,0,0,51,san francisco,CA,94114,US,Clockwork Alchemy,Western Martial Arts,2012
+S5233,0,0,0,48,dixon,CA,95620,US,Clockwork Alchemy,Western Martial Arts,2012
+S5329,0,0,0,0,Novato,CA,94945,US,Clockwork Alchemy,Western Martial Arts,2012
+S5241,1973,7,18,38,San Francisco,CA,94115,US,Clockwork Alchemy,Western Martial Arts,2012
+S5313,0,0,0,26,San Francisco,CA,94131,US,Clockwork Alchemy,Western Martial Arts,2012
+S5242,0,0,0,25,San Francisco,CA,94112,US,Clockwork Alchemy,Western Martial Arts,2012
+S5311,0,0,0,29,Pacifica,CA,94044,US,Clockwork Alchemy,Western Martial Arts,2012
+S5312,0,0,0,28,Pacifica,CA,94044,US,Clockwork Alchemy,Western Martial Arts,2012
+S5246,0,0,0,45,San francisco,CA,94112,US,Clockwork Alchemy,Western Martial Arts,2012
+S5278,1952,1,19,60,Altadena,CA,91001,US,Clockwork Alchemy,Western Martial Arts,2012
+S5261,0,0,0,67,Hayward,CA,94544,US,Clockwork Alchemy,CA Panels,2012
+S5265,1937,2,16,75,Corvallis,OR,97330,US,Clockwork Alchemy,CA Panels,2012
+S4962,0,0,0,33,Grass Valley,CA,95945,US,Clockwork Alchemy,CA Panels,2012
+S5032,0,0,0,60,San Leandro,CA,94577,US,Clockwork Alchemy,CA Panels,2012
+S5284,0,0,0,45,Foster City,CA,94404,US,Clockwork Alchemy,CA Panels,2012
+S5258,1954,5,27,57,San Leandro,CA,94577,US,Clockwork Alchemy,CA Panels,2012
+S5059,1971,11,4,40,Bellevue,WA,98006,US,Clockwork Alchemy,CA Panels,2012
+S5259,0,0,0,48,San Jose,CA,95111,US,Clockwork Alchemy,CA Panels,2012
+S5309,0,0,0,45,San Jose,CA,95111,US,Clockwork Alchemy,CA Panels,2012
+S4961,1972,5,17,40,Oakland,CA,94610,US,Clockwork Alchemy,SPLARP,2012
+S5308,0,0,0,34,PORTLAND,OR,97232,US,Clockwork Alchemy,CA Video Programming,2012
+S5316,0,0,0,33,Portland,OR,97232,US,Clockwork Alchemy,CA Video Programming,2012
+S1067,1990,1,2,22,San Jose,CA,95148,US,Clockwork Alchemy,CA Info Desk,2012
+S4979,0,0,0,22,San Jose,CA,95117,US,Clockwork Alchemy,CA Info Desk,2012
+S5117,0,0,0,49,San Francisco,CA,94112-3225,US,Clockwork Alchemy,CA Info Desk,2012
+S5082,0,0,0,54,Sacramento,CA,95829,US,Clockwork Alchemy,CA Info Desk,2012
+S4984,0,0,0,0,Fremont,CA,94539,US,Clockwork Alchemy,CA Tours,2012
+S5231,1991,4,25,21,Sunnyvale,CA,94085,US,Clockwork Alchemy,CA Tours,2012
+S4958,0,0,0,50,Santa Clara,CA,95054,US,Clockwork Alchemy,CA Operations,2012
+S5286,0,0,0,0,E Palo Alto,CA,94303,US,Clockwork Alchemy,CA Operations,2012
+S5276,0,0,0,50,Santa Clara,CA,95054,US,Clockwork Alchemy,CA Operations,2012
+S5295,0,0,0,27,Los Altos,CA,94024,US,Clockwork Alchemy,CA Operations,2012
+S5269,0,0,0,43,San Lorenzo,CA,94580,US,Clockwork Alchemy,CA Operations,2012
+S4975,1985,9,16,26,Foster City,CA,94404,US,Clockwork Alchemy,CA Operations,2012
+S4976,0,0,0,26,Foster CIty,CA,94404,US,Clockwork Alchemy,CA Operations,2012
+S4994,1983,2,28,29,Oakley,CA,94561,US,Clockwork Alchemy,CA Operations,2012
+S5302,1963,9,15,48,San Francisco,CA,94114,US,Clockwork Alchemy,CA ConOps,2012
+S5272,0,0,0,0,Santa Clara,CA,95051,US,Clockwork Alchemy,CA ConOps,2012
+S5271,1963,7,3,48,Oakley,CA,94561-3410,US,Clockwork Alchemy,CA ConOps,2012
+S5319,1992,3,16,20,Torrance,CA,90505-2831,US,Clockwork Alchemy,CA ConOps,2012
+S5277,1991,8,5,20,El Cajon,CA,92020,US,Clockwork Alchemy,CA ConOps,2012
+S5238,0,0,0,58,san leandro,CA,94577,US,Clockwork Alchemy,CA ConOps,2012
+S5303,1966,11,3,45,San Francisco,CA,94114,US,Clockwork Alchemy,CA ConOps,2012
+S5273,1981,12,6,30,Oakland,CA,94612,US,Clockwork Alchemy,CA ConOps,2012
+S5140,1980,7,10,31,Martinez,CA,94553,US,Clockwork Alchemy,CA Logistics,2012
+S5330,0,0,0,36,Seaside,CA,93955,US,Clockwork Alchemy,CA Logistics,2012
+S5331,0,0,0,21,Concord,CA,94519,US,Clockwork Alchemy,CA Logistics,2012
+S5328,1980,1,15,32,Concord,CA,94520,US,Clockwork Alchemy,CA Logistics,2012
+S5171,1984,4,4,28,Martinez,CA,94553,US,Clockwork Alchemy,CA Logistics,2012
+S5168,1970,7,10,41,benicia,CA,94510,US,Clockwork Alchemy,CA Logistics,2012
+S5332,0,0,0,33,Concord,CA,94519,US,Clockwork Alchemy,CA Logistics,2012
+S1498,1984,12,6,27,San Jose,CA,95148,US,Clockwork Alchemy,Bobbies,2012
+S2071,1968,8,16,43,Hayward,CA,94544,US,Clockwork Alchemy,Bobbies,2012
+S3211,1984,5,20,28,San Jose,CA,95126,US,Clockwork Alchemy,Bobbies,2012
+S5090,0,0,0,18,Sacramento,CA,95829,US,Clockwork Alchemy,Bobbies,2012
+S5066,1966,5,28,45,Auburn,CA,95603,US,Clockwork Alchemy,Bobbies,2012
+S5064,1983,12,16,28,Fremont,CA,94536,US,Clockwork Alchemy,Bobbies,2012
+S5289,1991,1,14,21,Gilroy,CA,95020,US,Clockwork Alchemy,Bobbies,2012
+S5070,0,0,0,20,Corvallis,OR,97333,US,Clockwork Alchemy,Bobbies,2012
+S5071,0,0,0,21,McMinnville,OR,97128,US,Clockwork Alchemy,Bobbies,2012
+S5069,0,0,0,16,Gresham,OR,97030,US,Clockwork Alchemy,Bobbies,2012
+S5219,1986,3,28,26,San Lorenzo,CA,94580,US,Clockwork Alchemy,Bobbies,2012
+S5062,1993,7,5,18,San Lorenzo,CA,94580,US,Clockwork Alchemy,Bobbies,2012
+S5063,1991,6,19,20,san lorenzo,CA,94580,US,Clockwork Alchemy,Bobbies,2012
+S5212,0,0,0,0,Newark,CA,94560,US,Clockwork Alchemy,Bobbies,2012
+S5220,1984,8,29,27,San Lorenzo,CA,94580,US,Clockwork Alchemy,Bobbies,2012
+S5067,1979,3,6,33,auburn,CA,95603,US,Clockwork Alchemy,Bobbies,2012
+S5213,0,0,0,43,Alameda,CA,94501,US,Clockwork Alchemy,Bobbies,2012
+S5293,1989,7,24,22,Cameron Park,CA,95682,US,Clockwork Alchemy,Bobbies,2012
+S5065,1977,4,26,35,San Jose,CA,95128,US,Clockwork Alchemy,Bobbies,2012
+S5037,1991,4,20,21,Palo Alto,CA,94306,US,Clockwork Alchemy,CA Tech,2012
+S5114,0,0,0,27,Hayward,CA,94545,US,Clockwork Alchemy,CA Volunteers,2012
+S5229,0,0,0,24,Sacramento,CA,95825,US,Clockwork Alchemy,CA Volunteers,2012
+S5178,0,0,0,0,Hayward,CA,94545,US,Clockwork Alchemy,CA Volunteers,2012
+S5179,1983,1,18,29,castro valley,CA,94546,US,Clockwork Alchemy,CA Volunteers,2012
+S4655,1962,7,26,49,San Jose,CA,95123,US,Clockwork Alchemy,CA Artist Relations,2012
+S4664,0,0,0,30,Oakland,CA,94610,US,Clockwork Alchemy,CA Artist Relations,2012
+S4656,1984,2,6,28,San Francisco,CA,94109,US,Clockwork Alchemy,CA Artist Relations,2012
+S4971,0,0,0,29,Redwood City,CA,94064,US,Clockwork Alchemy,CA Artist Relations,2012
+S4657,0,0,0,29,Redwood City,CA,94064,US,Clockwork Alchemy,CA Artist's Bazaar,2012
+S4701,1982,3,7,30,Martinez,CA,94553,US,Clockwork Alchemy,CA Artist's Bazaar,2012
+S5291,0,0,0,36,Berkeley,CA,94709,US,Clockwork Alchemy,CA Artist's Gallery,2012
+S5189,0,0,0,0,Oakland,CA,94605,US,Clockwork Alchemy,CA Registration,2012
+S5188,0,0,0,56,Canyon,CA,94516,US,Clockwork Alchemy,CA Registration,2012
+S4964,1973,6,11,38,Daly City,CA,94014,US,Clockwork Alchemy,CA Special Events,2012
+S5297,0,0,0,20,pacifica,CA,94044,US,Clockwork Alchemy,CA Special Events,2012
+S5131,0,0,0,45,oakland,CA,94610,US,Clockwork Alchemy,CA Special Events,2012
+S5130,0,0,0,32,San Bruno,CA,94066,US,Clockwork Alchemy,CA Music,2012
+S4965,0,0,0,28,Oakland,CA,94609,US,Clockwork Alchemy,CA Music,2012
+S5129,1972,4,4,40,San Bruno,CA,94066,US,Clockwork Alchemy,CA Music,2012
+S5126,0,0,0,33,San Francisco,CA,94103,US,Clockwork Alchemy,CA Ball,2012
+S5167,0,0,0,50,Sunnyvale,CA,94086,US,Clockwork Alchemy,CA Ball,2012
+S5165,1967,10,28,44,South San Francisco,CA,94080,US,Clockwork Alchemy,CA Ball,2012
+S5031,0,0,0,30,Oakland,CA,94610,US,Clockwork Alchemy,CA Guests,2012
+S5102,1973,9,30,38,Avery,CA,95224,US,Clockwork Alchemy,CA Guests,2012
+S5101,1971,3,8,41,Avery,CA,95224,US,Clockwork Alchemy,CA Guests,2012
+S5155,0,0,0,43,San Francisco,CA,94131,US,Clockwork Alchemy,CA Guests,2012
+S4963,1974,3,11,38,Fremont,CA,94536,US,Clockwork Alchemy,CA Web,2012
+S4996,1975,1,24,37,Sunnyvale,CA,94086,US,Clockwork Alchemy,CA Web,2012
+S5270,0,0,0,27,Oakland,CA,94609,US,Clockwork Alchemy,CA Web,2012
